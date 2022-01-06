@@ -1,4 +1,4 @@
-## Hello! I'm Sheerabth O S
+## 👋 Hello! I'm Sheerabth O S
 I am currently pursuing a Master's degree in Software Systems. My area of interest is Backend Web Development. I am currently exploring Cloud Computing and Internet of Things! I have been working with Python and Java lately.
 
 You can find me on <a href='https://www.linkedin.com/in/sheerabth-o-s-57166a190'/>Linkedin</a>. 
@@ -13,7 +13,7 @@ You can find me on <a href='https://www.linkedin.com/in/sheerabth-o-s-57166a190'
   
 </div>
 
-## Technologies and Tools
+## 🛠️ Tools and Technologies
 
 #### What I know & have worked with.
 <div align='center'>
