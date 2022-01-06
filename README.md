@@ -20,11 +20,11 @@ I'm Sheerabth O S, a student from Madurai, India. Currently exploring Cloud Comp
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=for-the-badge&logo=git&logoColor=white&color=f05032' />
   </a>
+  <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Java&style=for-the-badge&logo=java&color=007396&logoColor=white' />
   <a href='https://isocpp.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&style=for-the-badge&logo=c%2B%2B&color=00599c' />
   </a>
-  <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Java&style=for-the-badge&logo=java&color=007396&logoColor=white' />
   </a>
   <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=%23%21%2Fbin%2Fbash&logoColor=white&color=grey&style=for-the-badge&logo=gnu-bash&color=4eaa25' />
@@ -71,3 +71,8 @@ I'm Sheerabth O S, a student from Madurai, India. Currently exploring Cloud Comp
     <img src='https://img.shields.io/static/v1?label=&message=Blockchain&style=for-the-badge&logo=blockchaindotcom&color=478cbf&logoColor=white' />
   </a>
 </div>
+
+
+## &#x1f4c8; GitHub Stats
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Sheerabth&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
