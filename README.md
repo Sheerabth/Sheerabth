@@ -13,7 +13,7 @@ You can find me on <a href='https://www.linkedin.com/in/sheerabth-o-s-57166a190'
   
 </div>
 
-## 🛠️ Tools and Technologies
+## 🛠️ Tools & Technologies
 
 #### What I know & have worked with.
 <div align='center'>
