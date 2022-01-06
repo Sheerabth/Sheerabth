@@ -1,6 +1,5 @@
-## Hello! 👋, nice to meet you :)
-Welcome to my profile.
-I'm Sheerabth O S, a student from Madurai, India. Currently exploring Cloud Computing and IOT!.
+## Hello! 👋, I'm Sheerabth O S
+I am currently pursuing Master's degree in software systems. My area of interest is backend development. I am currently exploring Cloud Computing and IOT!. I have been working with python and java lately. You can find me on <a href='https://www.linkedin.com/in/sheerabth-o-s-57166a190'/>Linkedin</a>. 
 
 <div align='center'>
   <a href='https://www.linkedin.com/in/sheerabth-o-s-57166a190/' target='_blank' rel='noopener' rel='noreferrer'>
@@ -12,7 +11,7 @@ I'm Sheerabth O S, a student from Madurai, India. Currently exploring Cloud Comp
   
 </div>
 
-#### What I know & have worked with.
+### What I know & have worked with.
 <div align='center'>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&logoColor=white&color=3776ab' />
@@ -58,7 +57,7 @@ I'm Sheerabth O S, a student from Madurai, India. Currently exploring Cloud Comp
   </a>
 </div>
 
-#### I am currently learning.
+### I am currently learning.
 
 <div align='center'>
   <a href='https://aws.amazon.com/' target='_blank' rel='noopener' rel='noreferrer'>
